@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main {
+  background-color: #000000;
+  height: 100vh;
+  overflow: auto;
+}
+.image {
+  width: 100%;
+  height: 30vh;
+}
+.second {
+  background-color: #000000;
+  padding: 20px;
+}
+.cure {
+  padding: 20px;
+}
+.head {
+  font-weight: bold;
+  font-family: roboto;
+  color: #ffffff;
+}
+.second-sub {
+  margin-top: 23px;
+  padding: 20px;
+}
